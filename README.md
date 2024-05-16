@@ -1,8 +1,6 @@
 ## Olá, eu sou Cleidson Goes!
 
-- tenho 32 anos. Sempre gostei de tecnologia e hoje tenho o prazer de estudar diariamente o que amo, estou constantemente explorando novas tecnologias e metodologias para aprimorar minhas habilidades e criar experiências web incríveis.
-
-Sou uma pessoa muito assertiva, tranquila e paciente. Gosto muito de games e atividades físicas.
+- tenho 32 anos. Sou uma pessoa muito assertiva, tranquila e paciente; sempre gostei muito de games, atividades físicas e tecnologia, e hoje tenho o prazer de estudar diariamente o que amo "TECNOLOGIA", estou constantemente explorando novas tecnologias e metodologias para aprimorar minhas habilidades e criar experiências web incríveis.
 
 - Estudei Desenvolvimento de Software na Trybe <img width='20px' height='20px' src='https://yt3.ggpht.com/a/AATXAJwv6J1DhKJtvmWwLg4NCBlef2r9VhiYfVwQPvNd=s900-c-k-c0xffffffff-no-rj-mo' />, o curso incluiu: Fundamentos de Desenvolvimento Web, Desenvolvimento Front-end e Back-end, e também Ciência da Computação.
 
@@ -30,6 +28,8 @@ Sou uma pessoa muito assertiva, tranquila e paciente. Gosto muito de games e ati
 
 ###  🌱 Estou aprendendo atualmente
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+- Entre em contato comigo
 
 <div> 
   <a href="https://www.instagram.com/cleidson.goes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
