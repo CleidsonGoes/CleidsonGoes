@@ -2,10 +2,13 @@
 ## Olá, eu sou Cleidson Goes!
 
 - tenho 34 anos. Sou uma pessoa muito assertiva, tranquila e paciente; sempre gostei muito de games, atividades físicas e tecnologia, e hoje tenho o prazer de estudar diariamente o que amo "TECNOLOGIA", estou constantemente explorando novas tecnologias e metodologias para aprimorar minhas habilidades e criar experiências web incríveis.
-
-- Estudei Desenvolvimento de Software na Trybe <img width='20px' height='20px' src='https://yt3.ggpht.com/a/AATXAJwv6J1DhKJtvmWwLg4NCBlef2r9VhiYfVwQPvNd=s900-c-k-c0xffffffff-no-rj-mo' />, o curso incluiu: Fundamentos de Desenvolvimento Web, Desenvolvimento Front-end e Back-end, e também Ciência da Computação.
-
+  
 - Formado em Análise e Desenvolvimento de Sistema pela Estácio
+
+- Estudei Desenvolvimento Web Full stack na Trybe <img width='20px' height='20px' src='https://yt3.ggpht.com/a/AATXAJwv6J1DhKJtvmWwLg4NCBlef2r9VhiYfVwQPvNd=s900-c-k-c0xffffffff-no-rj-mo' />.
+  
+- Faço atualmente a formação Cientista de dados pela Data Science Academy, a formação inclui: Data Science Para Análise Multivariada de Dados; Modelagem de Séries Temporais e Real-Time Analytics com Apache Spark e Databricks; Matemática e Estatística Aplicada Para Data Science, Machine Learning e IA; Business Analytics e Machine Learning Para Projetos de Data Science; Cloud Computing Data Science (com Amazon SageMaker e Microsoft Fabric); e Storytelling, Dashboards e Técnicas de Apresentação Para Cientistas de Dados
+
 
 ### Coisas com as quais eu codifico
 
