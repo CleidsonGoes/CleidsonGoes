@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=C0FF25&random=false&width=435&separator=%3C&lines=print(%22Ol%C3%A1%2C+eu+sou+o+Clei+%F0%9F%A7%94%F0%9F%8F%BB%22);)](https://git.io/typing-svg)
 ## Olá, eu sou Cleidson Goes!
 
-- tenho 34 anos. Sou uma pessoa muito assertiva, tranquila e paciente; sempre gostei muito de games, atividades físicas e tecnologia, e hoje tenho o prazer de estudar diariamente o que amo "TECNOLOGIA", estou constantemente explorando novas tecnologias e metodologias para aprimorar minhas habilidades e criar experiências web incríveis.
+- tenho 34 anos. Sou uma pessoa muito assertiva, tranquila e paciente; sempre gostei muito de games, atividades físicas e tecnologia, e hoje tenho o prazer de estudar diariamente o que amo "TECNOLOGIA", estou constantemente explorando novas tecnologias e metodologias para aprimorar minhas habilidades e fazer análises de dados incríveis.
   
 - Formado em Análise e Desenvolvimento de Sistema pela Estácio <img width='20px' height='20px' src='https://files.passeidireto.com/69dc316e-4cf7-469a-9796-935312cba1b0/69dc316e-4cf7-469a-9796-935312cba1b0.jpeg' />.
 
